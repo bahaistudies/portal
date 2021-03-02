@@ -7,11 +7,11 @@ pygmentsstyle: 'monokai'
 theme: novela
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/bahaistudies"
+  github: "https://github.com/bahaistudies"
+  linkedin: "https://www.linkedin.com/company/bahaistudies"
+  vimeo: "https://vimeo.com/bahaistudies"
+  instagram: "https://instagram.com/bahaistudies"
+  facebook: "https://facebook.com/bahaistudies"
 taxonomies:
   author: authors
